@@ -1,7 +1,7 @@
 import React from "react";
 export function Footer() {
 	return (
-		<footer className="fixed-botom mt-auto footer bg-dark text-light py-2">
+		<footer className="fixed-bottom mt-auto footer bg-dark text-light py-2">
 			<div className="container">
 				<span className="text-light">
 					Made by{" "}

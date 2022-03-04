@@ -19,7 +19,7 @@ const Home = () => {
 						<Jumbotron />
 					</div>
 				</div>
-				<div className="row mb-3">
+				<div className="row mb-5">
 					<Card />
 					<Card />
 					<Card />
